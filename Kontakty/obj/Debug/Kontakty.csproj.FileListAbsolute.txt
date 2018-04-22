@@ -1,0 +1,14 @@
+C:\Users\Jacek\Desktop\PROJEKTY\C#\Kontakty\Kontakty\bin\Debug\Kontakty.exe.config
+C:\Users\Jacek\Desktop\PROJEKTY\C#\Kontakty\Kontakty\bin\Debug\Kontakty.exe
+C:\Users\Jacek\Desktop\PROJEKTY\C#\Kontakty\Kontakty\bin\Debug\Kontakty.pdb
+C:\Users\Jacek\Desktop\PROJEKTY\C#\Kontakty\Kontakty\obj\Debug\Kontakty.csprojResolveAssemblyReference.cache
+C:\Users\Jacek\Desktop\PROJEKTY\C#\Kontakty\Kontakty\obj\Debug\Kontakty.Form1.resources
+C:\Users\Jacek\Desktop\PROJEKTY\C#\Kontakty\Kontakty\obj\Debug\Kontakty.Properties.Resources.resources
+C:\Users\Jacek\Desktop\PROJEKTY\C#\Kontakty\Kontakty\obj\Debug\Kontakty.csproj.GenerateResource.cache
+C:\Users\Jacek\Desktop\PROJEKTY\C#\Kontakty\Kontakty\obj\Debug\Kontakty.csproj.CoreCompileInputs.cache
+C:\Users\Jacek\Desktop\PROJEKTY\C#\Kontakty\Kontakty\obj\Debug\Kontakty.exe
+C:\Users\Jacek\Desktop\PROJEKTY\C#\Kontakty\Kontakty\obj\Debug\Kontakty.pdb
+C:\Users\Jacek\Desktop\PROJEKTY\C#\Kontakty\Kontakty\bin\Debug\DatabaseTest.mdf
+C:\Users\Jacek\Desktop\PROJEKTY\C#\Kontakty\Kontakty\bin\Debug\DatabaseTest_log.ldf
+C:\Users\Jacek\Desktop\PROJEKTY\C#\Kontakty\Kontakty\bin\Debug\Database1.mdf
+C:\Users\Jacek\Desktop\PROJEKTY\C#\Kontakty\Kontakty\bin\Debug\Database1_log.ldf
