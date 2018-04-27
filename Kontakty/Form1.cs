@@ -21,11 +21,12 @@ namespace Kontakty
         }
         SqlConnection ABC = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\Jacek\Desktop\PROJEKTY\C#\Kontakty\Kontakty\DatabaseTest.mdf;Integrated Security=True");
 
-        //Server=tcp:pierwszyserwerazure.database.windows.net,1433;Initial Catalog=BazaDanych;Persist Security Info=False;User ID={your_username};Password={your_password};MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
-        //Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\Jacek\Desktop\PROJEKTY\C#\Kontakty\Kontakty\DatabaseTest.mdf;Integrated Security=True
+        // Server=tcp:pierwszyserwerazure.database.windows.net,1433;Initial Catalog=BazaDanych;Persist Security Info=False;User ID={your_username};Password={your_password};MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
+        // Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\Jacek\Desktop\PROJEKTY\C#\Kontakty\Kontakty\DatabaseTest.mdf;Integrated Security=True
        
         SqlCommand command = new SqlCommand();
         SqlDataReader dataSearch;
+
 
         private void label1_Click(object sender, EventArgs e)
         {
