@@ -45,7 +45,7 @@ namespace Kontakty
             textBox1.Clear();
             textBox2.Clear();
             textBox3.Clear();
-            textBox4.Clear();
+            textBox4.Clear(); 
             dateTimePicker1.Value = DateTime.Now;
             comboBox1.SelectedIndex = 1;
         }
